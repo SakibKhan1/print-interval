@@ -19,7 +19,7 @@ int main()
     cin >> U;
     for(int i = L; i < U; i++){
     //increment from first number to second number
-        cout << i;
+        cout << i << endl;
     }
 
 }
